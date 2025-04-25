@@ -1,0 +1,13 @@
+{
+    "title": "Registration",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "register": "Register",
+    "accept_terms": "I accept terms",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female"
+  }
